@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **React , React Native**
 
-# 💬 Ask me about **react, react native, js, html, tailwind css** #
+### 💬 Ask me about **react, react native, js, html, tailwind css** ###
 
-# 📫 How to reach me **fredrickodondi9@gmail.com or whatsapp +254114316642** #
+### 📫 How to reach me **fredrickodondi9@gmail.com or whatsapp +254114316642** ###
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
