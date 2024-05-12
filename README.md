@@ -1,1 +1,2 @@
 # Hi there👋 , I’m Fredrick Odondi
+ I am a passionate developer specializing in React and React Native. With a keen eye for UI/UX design, I strive to create applications that are not only functional but also intuitive and visually appealing. My journey in the tech industry has equipped me with the skills to build seamless, user-friendly web and mobile applications. I believe in continuous learning and improvement, and I'm always ready to explore new technologies and techniques to stay at the forefront of the rapidly evolving tech landscape.
