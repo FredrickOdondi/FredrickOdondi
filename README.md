@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fredrick Otieno Odondi</h1>
 <h3 align="center">I am a passionate developer specializing in React and React Native. With a keen eye for UI/UX design, I strive to create applications that are not only functional but also intuitive and visually appealing. My journey in the tech industry has equipped me with the skills to build seamless, user-friendly web and mobile applications. I believe in continuous learning and improvement, and I'm always ready to explore new technologies and techniques to stay at the forefront of the rapidly evolving tech landscape.</h3>
 
+
+<img src =""C:\Users\fredr\Downloads\WhatsApp Image 2024-05-10 at 18.51.02_502234a0.jpg"" width="250" height ="250"/>
+
 - 🌱 I’m currently learning **React , React Native**
 
 ### 💬 Ask me about **react, react native, js, html, tailwind css** ###
