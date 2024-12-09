@@ -1,22 +1,162 @@
-<h1 align="center">Hi 👋, I'm Fredrick Otieno Odondi</h1>
-<h3 align="center">I am a passionate developer specializing in React and React Native. With a keen eye for UI/UX design, I strive to create applications that are not only functional but also intuitive and visually appealing. My journey in the tech industry has equipped me with the skills to build seamless, user-friendly web and mobile applications. I believe in continuous learning and improvement, and I'm always ready to explore new technologies and techniques to stay at the forefront of the rapidly evolving tech landscape.</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap" rel="stylesheet">
+  <title>Fredrick Otieno</title>
+  <style>
+    :root {
+      --bg-dark: #1a1a1a;
+      --text-dark: #ffffff;
+      --bg-light: #f5f5f5;
+      --text-light: #1a1a1a;
+      --accent: #50c878;
+    }
 
+    body {
+      font-family: Onest, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: var(--bg-dark);
+      color: var(--text-dark);
+      transition: background-color 0.3s ease, color 0.3s ease;
+    }
 
+    .container {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 1rem;
+    }
 
-- 🌱 I’m currently learning **React , React Native**
+    h1 {
+      font-size: 2rem;
+      color: var(--accent);
+      text-align: center;
+      margin-bottom: 50px;
+      margin-top: 200px;
+    }
 
-### 💬 Ask me about **react, react native, js, html, tailwind css** ###
+    .section {
+      margin: 1.5rem 0;
+     
+    }
 
-### 📫 How to reach me **fredrickodondi9@gmail.com or whatsapp +254114316642** ###
+    .section h2 {
+      border-bottom: 2px solid var(--accent);
+      padding-bottom: 0.5rem;
+      
+    }
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/f.r.e.d.1y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="f.r.e.d.1y" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/loud whispers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="loud whispers" height="30" width="40" /></a>
-</p>
+    .section p {
+      margin: 0.5rem 0;
+      line-height: 1.6;
+       
+    }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+    .theme-toggle {
+      display: flex;
+      justify-content: center;
+      margin-top: 1rem;
+    }
 
+    .theme-toggle button {
+      background-color: var(--accent);
+      border: none;
+      color: var(--text-dark);
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+      cursor: pointer;
+      border-radius: 5px;
+      transition: background-color 0.3s ease;
+    }
 
- # My Projects #
+    .theme-toggle button:hover {
+      background-color: #3ca65e;
+    }
+    .intro{
+      color: #50c878;
+      margin-bottom: 250px;
+    }
+    span{
+      color: #50c878;
+    }
+    .counter {
+      text-align: center;
+      font-size: 1rem;
+      color: var(--accent);
+      margin-top: 0.5rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Hi, I'm Fred</h1>
+    <div class="counter" id="viewCounter">Viewed 0 times</div>
+    <p>The Cloud is my office.</p>
+    <p class="intro">AWS Cloud Engineer | Specializing in Cloud Architecture & Automation Certified AWS Cloud Engineer | Building Scalable Cloud Solutions</p>
+    <div class="section">
+      <h2>About Me</h2>
+      <p>Hello, I’m Fredrick Otieno, an enthusiastic AWS Cloud Engineer with a passion for leveraging cloud technology to drive innovation and efficiency. With a solid foundation in infrastructure management and a knack for problem-solving, I thrive in dynamic environments where I can contribute to impactful projects.
+
+         Over the course of my career, I have developed a deep expertise in a wide range of AWS services, enabling me to <span>design</span>, <span>deloy</span>deploy, and <span>manage robust cloud solutions</span>. My hands-on experience includes:
+         
+         Amazon EC2: Proficient in provisioning and configuring virtual servers to deliver scalable compute capacity tailored to application needs.
+         AWS S3: Skilled in using Amazon S3 for secure and durable data storage, implementing policies for data lifecycle management and cost optimization.
+         AWS Lambda: Experienced in serverless architecture, designing event-driven applications that reduce operational overhead while enhancing scalability.
+         Amazon RDS: Well-versed in deploying and managing relational databases, ensuring high availability and performance through automated backups and scaling.
+         CloudWatch & CloudTrail: Adept at monitoring applications and resources to ensure performance and security compliance, utilizing insights for proactive maintenance.
+         I enjoy collaborating with cross-functional teams to define cloud strategies that align with business goals. My approach combines technical expertise with strong communication skills, allowing me to convey complex concepts in an understandable manner. I am driven by a desire to continuously learn and stay updated with the latest industry trends and AWS offerings.
+         
+         Whether optimizing cloud infrastructure or implementing best practices for security and compliance, I am committed to delivering high-quality solutions that empower organizations to realize the full potential of cloud technology.</p>
+    </div>
+    <div class="section">
+      <h2>Experience</h2>
+      <h2>Junior Cloud Engineer - Intern</h2>
+      <h3>Airtel Kenya</h3>
+      <h3>Oct 2024 - Present · 3 mos</h3>
+      <h3>Nairobi County, Kenya · Hybrid</h3>
+      <p><strong>Software Engineer</strong> - Tech Corp (2022 - Present)</p>
+      <p>Developed and deployed cloud-based applications, improving system performance by 30%.</p>
+    </div>
+    <div class="section">
+      <h2>Skills</h2>
+      <p>Python, JavaScript, AWS, React, Node.js</p>
+    </div>
+    <div class="theme-toggle">
+      <button onclick="toggleTheme()">Toggle Theme</button>
+    </div>
+  </div>
+
+  <script>
+    const root = document.documentElement;
+
+    function toggleTheme() {
+      if (root.style.getPropertyValue('--bg-dark') === '#1a1a1a') {
+        root.style.setProperty('--bg-dark', '#f5f5f5');
+        root.style.setProperty('--text-dark', '#1a1a1a');
+        root.style.setProperty('--bg-light', '#1a1a1a');
+        root.style.setProperty('--text-light', '#ffffff');
+      } else {
+        root.style.setProperty('--bg-dark', '#1a1a1a');
+        root.style.setProperty('--text-dark', '#ffffff');
+        root.style.setProperty('--bg-light', '#f5f5f5');
+        root.style.setProperty('--text-light', '#1a1a1a');
+      }
+    }
+
+     // Counter logic
+     function updateViewCounter() {
+      let views = localStorage.getItem('resumeViews') || 0;
+      views = parseInt(views) + 1;
+      localStorage.setItem('resumeViews', views);
+      document.getElementById('viewCounter').textContent = `Viewed ${views} times`;
+    }
+
+    // Initialize counter on page load
+    updateViewCounter();
+  </script>
+</body>
+</html>
