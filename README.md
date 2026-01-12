@@ -16,10 +16,8 @@
 
 ## 🚀 About Me
 
-**Cloud-Based Java Back-End Engineer** | **AWS Cloud Practitioner** | **Microservices Architect**
-
-I'm passionate about building scalable, cloud-native backend solutions that solve real-world problems. With expertise in AWS, Java, and containerization technologies, I design systems that are robust, maintainable, and production-ready.
-
+**Cloud-Based Java Back-End Engineer** | **AWS Cloud Practitioner** | **Microservices Architect** | **AI/LLM Engineer** | **Workflow Automation Specialist**
+I'm passionate about building scalable, cloud-native backend solutions and cutting-edge AI/LLM applications that solve real-world problems. With deep expertise in AWS, Java, containerization, and emerging AI technologies like LangChain, LangGraph, and n8n automation, I architect cloud-based systems that are robust, maintainable, and production-ready. I specialize in developing intelligent agents, RAG systems, workflow automation, and AI-powered microservices that drive business value.
 <details>
 <summary><b>📌 What I'm Currently Doing</b></summary>
 
