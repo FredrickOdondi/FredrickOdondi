@@ -70,6 +70,68 @@ I'm passionate about building scalable, cloud-native backend solutions that solv
 
 ---
 
+## 🤖 AI Development & LLM Engineering
+
+### LangChain & LangGraph
+
+<div>
+  <img src="https://img.shields.io/badge/LangChain-33A1FD?style=for-the-badge&logo=openai&logoColor=white" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/LangGraph-FF6B6B?style=for-the-badge&logo=graph&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Anthropic-9D4EDD?style=for-the-badge&logo=anthropic&logoColor=white" alt="Anthropic"/>
+</div>
+
+**LangChain Expertise:**
+- Building robust LLM applications with composable chains and custom tools
+- Implementing RAG (Retrieval-Augmented Generation) systems for contextual AI responses
+- Memory management and conversation history handling
+- Integration with multiple LLM providers (OpenAI, Anthropic, Cohere)
+- Custom prompt engineering and template optimization
+- Document processing and intelligent chunking strategies
+
+**LangGraph Advanced Capabilities:**
+- Designing sophisticated agent workflows with cyclical logic and state management
+- Building stateful, multi-agent systems with complex decision trees
+- Implementing error handling, retry mechanisms, and human-in-the-loop workflows
+- Creating autonomous agents that can reason, plan, and execute tasks
+- Stream processing and real-time response handling
+- Debugging and monitoring agent behavior in production environments
+
+---
+
+## ⚙️ Workflow Automation with n8n
+
+<div>
+  <img src="https://img.shields.io/badge/n8n-FF6B35?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" alt="Zapier"/>
+  <img src="https://img.shields.io/badge/Make-593CDB?style=for-the-badge&logo=make&logoColor=white" alt="Make"/>
+  <img src="https://img.shields.io/badge/Automation-4A90E2?style=for-the-badge&logo=automation&logoColor=white" alt="Automation"/>
+</div>
+
+**n8n Workflow Automation:**
+- Designing no-code/low-code automation workflows that eliminate repetitive tasks
+- Creating event-driven architectures that react to webhooks, API triggers, and scheduled events
+- Building data pipelines for ETL (Extract, Transform, Load) operations
+- Integrating 400+ services including AWS, Slack, GitHub, Stripe, HubSpot, and custom APIs
+- Conditional logic and branching workflows for complex business processes
+- Error handling, logging, and monitoring for production workflows
+
+**Advanced n8n Capabilities:**
+- Deploying self-hosted n8n instances with Docker on AWS/Kubernetes
+- Creating reusable workflow templates and custom nodes for enterprise automation
+- Building AI-powered workflows that combine n8n with LangChain LLMs
+- Data transformation with expressions and custom functions
+- Managing sensitive credentials and environment variables securely
+- Performance optimization for high-volume workflow execution
+
+**Real-World Automation Examples:**
+- **Lead Management**: Automatically capture leads from forms, enrich with CRM data, and route to sales
+- **Document Processing**: Extract data from PDFs/emails using AI, validate, and sync to databases
+- **Notification Systems**: Multi-channel alerts triggered by specific conditions (email, Slack, SMS)
+- **Data Synchronization**: Keep multiple systems in sync (spreadsheets ↔ databases ↔ APIs)
+- **Report Generation**: Scheduled data aggregation and report distribution
+- **Customer Support**: Automated ticket creation, routing, and resolution workflows
+
 ## 📊 GitHub Statistics
 
 <div align="center">
